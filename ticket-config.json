@@ -1,0 +1,27 @@
+{
+  "channelId": "1316802667481399306",
+  "categoryId": "1343517573559488543",
+  "staffRoleId": "1343520360959709315",
+  "logChannelId": "1316472385570078833",
+  "welcomeMessage": "Bienvenue dans votre ticket V.I.P Luxe Suprême! Notre staff d’élite est à votre service.",
+  "ticketCounter": 0,
+  "ticketCategories": {
+    "support": {
+      "name": "Support Général",
+      "emoji": "❓"
+    },
+    "billing": {
+      "name": "Facturation",
+      "emoji": "💰"
+    },
+    "report": {
+      "name": "Signalement",
+      "emoji": "🚨"
+    }
+  },
+  "priorityLevels": [
+    "Low",
+    "Medium",
+    "High"
+  ]
+}
